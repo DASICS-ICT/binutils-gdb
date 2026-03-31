@@ -1315,6 +1315,10 @@
 .*Info: macro .*
 .*Warning: invalid CSR `uip' for the privileged spec `1.12'
 .*Info: macro .*
+.*Warning: invalid CSR `utimecmp' for the privileged spec `1.12'
+.*Info: macro .*
+.*Warning: invalid CSR `utimecmp' for the privileged spec `1.12'
+.*Info: macro .*
 .*Warning: invalid CSR `sedeleg' for the privileged spec `1.12'
 .*Info: macro .*
 .*Warning: invalid CSR `sedeleg' for the privileged spec `1.12'
