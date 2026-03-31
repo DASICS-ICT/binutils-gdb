@@ -823,6 +823,8 @@ Disassembly of section .text:
 [ 	]+[0-9a-f]+:[ 	]+04359073[ 	]+csrw[ 	]+utval,a1
 [ 	]+[0-9a-f]+:[ 	]+04402573[ 	]+csrr[ 	]+a0,uip
 [ 	]+[0-9a-f]+:[ 	]+04459073[ 	]+csrw[ 	]+uip,a1
+[ 	]+[0-9a-f]+:[ 	]+04502573[ 	]+csrr[ 	]+a0,utimecmp
+[ 	]+[0-9a-f]+:[ 	]+04559073[ 	]+csrw[ 	]+utimecmp,a1
 [ 	]+[0-9a-f]+:[ 	]+10202573[ 	]+csrr[ 	]+a0,sedeleg
 [ 	]+[0-9a-f]+:[ 	]+10259073[ 	]+csrw[ 	]+sedeleg,a1
 [ 	]+[0-9a-f]+:[ 	]+10302573[ 	]+csrr[ 	]+a0,sideleg
